@@ -27,7 +27,7 @@ def saludar(nombre, idioma):
     else:
         print("Idioma no soportado")
 
-    print(saludos.get(idioma, "Idioma no soportado"))
+   
 
 saludar("Martina", "espanol")  # Hola Martina
 saludar("JoE", "ingles")      # Hello John
