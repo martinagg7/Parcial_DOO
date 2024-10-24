@@ -61,6 +61,11 @@ print(calculator.total_area())
 
 Se le pide que implemente este escenario utilizando el patrón de diseño estrategia. Debe proporcionar una estructura que permita cambiar fácilmente el método de integración. Incluya al menos dos métodos específicos (por ejemplo, Trapecio y Simpson) y demuestre cómo se podrían cambiar estos métodos en tiempo de ejecución.
 
+## REPOSITORIO.
+Nombre Usuario @martinagg7
+
+Link Repo: https://github.com/martinagg7/Parcial_DOO.git
+
 
 
 
